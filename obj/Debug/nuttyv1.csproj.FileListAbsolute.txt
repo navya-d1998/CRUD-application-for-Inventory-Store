@@ -1,0 +1,7 @@
+C:\Users\revat\source\repos\nuttyv1\bin\Debug\nuttyv1.exe.config
+C:\Users\revat\source\repos\nuttyv1\bin\Debug\nuttyv1.exe
+C:\Users\revat\source\repos\nuttyv1\bin\Debug\nuttyv1.pdb
+C:\Users\revat\source\repos\nuttyv1\obj\Debug\nuttyv1.csprojAssemblyReference.cache
+C:\Users\revat\source\repos\nuttyv1\obj\Debug\nuttyv1.csproj.CoreCompileInputs.cache
+C:\Users\revat\source\repos\nuttyv1\obj\Debug\nuttyv1.exe
+C:\Users\revat\source\repos\nuttyv1\obj\Debug\nuttyv1.pdb
